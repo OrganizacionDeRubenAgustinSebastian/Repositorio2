@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-base",
+  "version": "1.0.0",
+  "description": "Estructura básica de un proyecto Node.js con Express y frontend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Rubén Sánchez Galera",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
