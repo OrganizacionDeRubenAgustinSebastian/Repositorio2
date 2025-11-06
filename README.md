@@ -18,3 +18,5 @@ Este es un proyecto base con Node.js y Express que sirve archivos estáticos des
    ```
    http://localhost:3000
    ```
+
+> Cada dia entiendo menos git
