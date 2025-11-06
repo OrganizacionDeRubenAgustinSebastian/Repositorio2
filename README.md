@@ -1,20 +1,13 @@
-# Proyecto Base Node.js + Frontend
+# Trabajo grupal de Rubén, Agustín y Sebastián
 
-Este es un proyecto base con Node.js y Express que sirve archivos estáticos desde la carpeta `public`.
+## Nombre y usuario: 
+### Rubén Sánchez Galera - rubensanchezgalera
 
-## 🚀 Cómo usar
+## Rol dentro del equipo: 
+### Desarrollador
 
-1. Instala dependencias:
-   ```bash
-   npm install
-   ```
+## Ramas en las que he trabajado:
+### main, develop, feature-ruben
 
-2. Ejecuta el servidor:
-   ```bash
-   npm start
-   ```
-
-3. Abre en tu navegador:
-   ```
-   http://localhost:3000
-   ```
+## Referencias consultadas:
+### ChatGpt, GitHub, apuntes de clase
