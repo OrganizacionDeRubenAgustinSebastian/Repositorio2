@@ -14,4 +14,7 @@
 - ChatGPT para la estructura inicial
 - Documentación de Git y GitHub
 
+<!-- Comentario personal -->
+> El mal no está en tener faltas, sino en no tratar de enmendarlas
+
 > HARIKKITTE IKOU
