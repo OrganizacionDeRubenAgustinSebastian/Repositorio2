@@ -1,13 +1,18 @@
 # Trabajo grupal de Rubén, Agustín y Sebastián
 
-## Nombre y usuario: 
-### Rubén Sánchez Galera - rubensanchezgalera
+## Miembros
+- Rubén Sanchez Galera (@rubensanchezgalera) – Desarrollador
+- Agustín Franco Ruiz (@francoagus95) – Manager
+- Sebastian Stancu (@sebastheraider) – Diseñador
 
-## Rol dentro del equipo: 
-### Desarrollador
+## Ramas trabajadas
+- feature-ruben
+- feature-agustin
+- feature-sebastian
 
-## Ramas en las que he trabajado:
-### main, develop, feature-ruben
+## Referencias consultadas
+- ChatGPT para la estructura inicial
+- Documentación de Git y GitHub
 
-## Referencias consultadas:
-### ChatGpt, GitHub, apuntes de clase
+<!-- Comentario personal -->
+> El mal no está en tener faltas, sino en no tratar de enmendarlas
