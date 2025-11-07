@@ -1,6 +1,4 @@
-# Proyecto Base Node.js + Frontend
-
-Este es un proyecto base con Node.js y Express que sirve archivos estáticos desde la carpeta `public`.
+# Trabajo grupal de Rubén, Agustín y Sebastián
 
 ## Miembros
 - Rubén Sanchez Galera (@rubensanchezgalera) – Desarrollador
